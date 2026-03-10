@@ -59,7 +59,7 @@
 		"ripemd160": "^2.0.3",
 		"safe-buffer": "^5.2.1",
 		"sha.js": "^2.4.12",
-		"to-buffer": "^1.2.1"
+		"to-buffer": "^1.2.2"
 	},
 	"engines": {
 		"node": ">= 0.10"
