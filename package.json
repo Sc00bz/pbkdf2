@@ -38,20 +38,20 @@
 	},
 	"devDependencies": {
 		"@arethetypeswrong/cli": "^0.18.2",
-		"@ljharb/eslint-config": "^21.2.0",
+		"@ljharb/eslint-config": "^22.2.0",
 		"@ljharb/tsconfig": "^0.3.2",
-		"@types/node": "^25.3.5",
+		"@types/node": "^25.4.0",
 		"auto-changelog": "^2.5.0",
 		"benchmark": "^2.1.4",
 		"browserify": "^17.0.1",
 		"encoding": "^0.1.13",
-		"eslint": "=8.8.0",
-		"npmignore": "^0.3.1",
+		"eslint": "^8.57.1",
+		"npmignore": "^0.3.5",
 		"nyc": "^10.3.2",
 		"object.assign": "^4.1.7",
 		"semver": "^6.3.1",
 		"tape": "^5.9.0",
-		"typescript": "^6.0.0-dev.20260306"
+		"typescript": "next"
 	},
 	"dependencies": {
 		"create-hash": "^1.2.0",
